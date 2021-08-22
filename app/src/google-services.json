@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319402902310",
+    "project_id": "connect-messenger-80574",
+    "storage_bucket": "connect-messenger-80574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319402902310:android:7c9978b437acb1428df7e7",
+        "android_client_info": {
+          "package_name": "com.connect.inc.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319402902310-6dcubo4j1oethi0ldupt5egjhln9rtf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNnQGMEwObEP83eYK1trLcnwhAYb7Jho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319402902310-6dcubo4j1oethi0ldupt5egjhln9rtf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
